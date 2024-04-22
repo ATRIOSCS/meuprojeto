@@ -1,0 +1,8908 @@
+%PDF-1.2
+1 0 obj <<
+/CreationDate(D:20240421214020)
+/Creator(FortesReport Community Edition v4.0.1.2 \251 Copyright © 1999-2021 Fortes Informática)
+>> endobj
+2 0 obj <<
+/Type/Catalog
+/Pages 3 0 R
+>> endobj
+5 0 obj <<
+/Type/Page
+/Parent 3 0 R
+/Resources 4 0 R
+/MediaBox [ 0 0 595.5 842.25 ]
+/Contents 6 0 R
+>> endobj
+6 0 obj <<
+/Length 7 0 R
+>>
+stream
+q
+0 0 0 rg
+BT
+/F1 16 Tf
+108.75 822.75 Td
+(Relatorio de Vendas por Comissão de Vendedores) Tj
+ET
+Q
+q
+0 0.502 0 rg
+BT
+/F1 11 Tf
+328.5 804.75 Td
+([ Relatorio de todos Vendedores por periodo ]) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+545.25 823.5 Td
+(1) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+521.25 823.5 Td
+(Pag:) Tj
+ET
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+0.75 w
+0 J
+[] 0 d
+0 0 0 RG
+0 0 0 rg
+28.5 783.75 538.5 0.75 re
+f
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+43.5 788.25 Td
+(ID) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+79.5 788.25 Td
+(Data) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 788.25 Td
+(Vendedor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+249.75 788.25 Td
+(Valor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+304.5 788.25 Td
+(Desconto) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+371.25 788.25 Td
+(Liquido) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+429.75 788.25 Td
+(Comissão) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+500.25 787.5 Td
+(Bonificacao) Tj
+ET
+Q
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 771.75 Td
+(137) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 771.75 Td
+(20/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 773.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 774.75 Td
+(40,06) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 773.25 Td
+(448,97) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 774.75 Td
+(489,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 774.75 Td
+(48,90) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 774.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 758.25 Td
+(62) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 758.25 Td
+(24/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 759.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 761.25 Td
+(93,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 759.75 Td
+(855,87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 761.25 Td
+(949,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 761.25 Td
+(94,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 761.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 744.75 Td
+(120) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 744.75 Td
+(25/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 746.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 747.75 Td
+(53,04) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 746.25 Td
+(731,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 747.75 Td
+(784,68) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 747.75 Td
+(78,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 747.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 731.25 Td
+(135) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 731.25 Td
+(27/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 732.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 734.25 Td
+(11,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 732.75 Td
+(195,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 734.25 Td
+(207,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 734.25 Td
+(20,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 734.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 717.75 Td
+(76) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 717.75 Td
+(28/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 719.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 720.75 Td
+(17,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 719.25 Td
+(177,11) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 720.75 Td
+(194,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 720.75 Td
+(19,41) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 720.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 704.25 Td
+(17) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 704.25 Td
+(28/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 705.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 707.25 Td
+(59,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 705.75 Td
+(897,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 707.25 Td
+(957,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 707.25 Td
+(95,74) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 707.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 690.75 Td
+(82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 690.75 Td
+(04/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 692.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 693.75 Td
+(53,04) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 692.25 Td
+(561,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 693.75 Td
+(614,81) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 693.75 Td
+(61,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 693.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 677.25 Td
+(37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 677.25 Td
+(10/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 678.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 680.25 Td
+(27,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 678.75 Td
+(263,37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 680.25 Td
+(290,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 680.25 Td
+(29,10) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 680.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 663.75 Td
+(122) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 663.75 Td
+(12/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 665.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 666.75 Td
+(24,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 665.25 Td
+(179,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 666.75 Td
+(204,31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 666.75 Td
+(20,43) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 666.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 650.25 Td
+(136) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 650.25 Td
+(12/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 651.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 653.25 Td
+(78,71) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 651.75 Td
+(636,17) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 653.25 Td
+(714,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 653.25 Td
+(71,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 653.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 636.75 Td
+(58) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 636.75 Td
+(13/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 638.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 639.75 Td
+(112,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 638.25 Td
+(663,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 639.75 Td
+(776,28) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 639.75 Td
+(77,63) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 639.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 623.25 Td
+(60) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 623.25 Td
+(04/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 624.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 626.25 Td
+(74,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 624.75 Td
+(635,15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 626.25 Td
+(710,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 626.25 Td
+(71,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 626.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 609.75 Td
+(186) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 609.75 Td
+(05/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 611.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 612.75 Td
+(64,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 611.25 Td
+(923,26) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 612.75 Td
+(987,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 612.75 Td
+(98,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 612.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 596.25 Td
+(33) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 596.25 Td
+(14/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 597.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 599.25 Td
+(38,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 597.75 Td
+(354,90) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 599.25 Td
+(392,90) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 599.25 Td
+(39,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 599.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 582.75 Td
+(99) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 582.75 Td
+(17/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 584.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 585.75 Td
+(37,67) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 584.25 Td
+(272,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 585.75 Td
+(310,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 585.75 Td
+(31,05) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 585.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 569.25 Td
+(68) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 569.25 Td
+(18/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 570.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 572.25 Td
+(74,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 570.75 Td
+(644,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 572.25 Td
+(719,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 572.25 Td
+(71,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 572.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 555.75 Td
+(102) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 555.75 Td
+(01/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 557.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 558.75 Td
+(104,57) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 557.25 Td
+(684,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 558.75 Td
+(789,23) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 558.75 Td
+(78,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 558.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 542.25 Td
+(5) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 542.25 Td
+(02/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 543.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 545.25 Td
+(19,13) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 543.75 Td
+(150,94) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 545.25 Td
+(170,07) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 545.25 Td
+(17,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 545.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 528.75 Td
+(55) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 528.75 Td
+(04/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 530.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 531.75 Td
+(16,55) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 530.25 Td
+(307,87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 531.75 Td
+(324,42) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 531.75 Td
+(32,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 531.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 515.25 Td
+(22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 515.25 Td
+(06/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 516.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 518.25 Td
+(101,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 516.75 Td
+(755,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 518.25 Td
+(856,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 518.25 Td
+(85,67) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 518.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 501.75 Td
+(29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 501.75 Td
+(11/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 503.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 504.75 Td
+(34,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 503.25 Td
+(609,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 504.75 Td
+(643,93) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 504.75 Td
+(64,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 504.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 488.25 Td
+(182) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 488.25 Td
+(18/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 489.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 491.25 Td
+(75,76) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 489.75 Td
+(452,28) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 491.25 Td
+(528,04) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 491.25 Td
+(52,80) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 491.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 474.75 Td
+(83) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 474.75 Td
+(24/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 476.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 477.75 Td
+(124,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 476.25 Td
+(764,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 477.75 Td
+(888,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 477.75 Td
+(88,89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 477.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 461.25 Td
+(196) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 461.25 Td
+(29/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 462.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 464.25 Td
+(29,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 462.75 Td
+(356,10) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 464.25 Td
+(386,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 464.25 Td
+(38,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 464.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 447.75 Td
+(59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 447.75 Td
+(08/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 449.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 450.75 Td
+(87,07) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 449.25 Td
+(509,33) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 450.75 Td
+(596,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 450.75 Td
+(59,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 450.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 434.25 Td
+(28) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 434.25 Td
+(14/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 435.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 437.25 Td
+(117,79) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 435.75 Td
+(709,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 437.25 Td
+(827,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 437.25 Td
+(82,75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 437.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 420.75 Td
+(31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 420.75 Td
+(17/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 422.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 423.75 Td
+(83,75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 422.25 Td
+(634,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 423.75 Td
+(718,59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 423.75 Td
+(71,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 423.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 407.25 Td
+(78) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 407.25 Td
+(22/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 408.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 410.25 Td
+(30,31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 408.75 Td
+(318,94) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 410.25 Td
+(349,25) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 410.25 Td
+(34,93) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 410.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 393.75 Td
+(110) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 393.75 Td
+(24/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 395.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 396.75 Td
+(40,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 395.25 Td
+(593,18) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 396.75 Td
+(633,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 396.75 Td
+(63,35) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 396.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 380.25 Td
+(144) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 380.25 Td
+(27/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 381.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 383.25 Td
+(139,06) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 381.75 Td
+(828,59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 383.25 Td
+(967,65) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 383.25 Td
+(96,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 383.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 366.75 Td
+(51) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 366.75 Td
+(18/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 368.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 369.75 Td
+(53,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 368.25 Td
+(405,54) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 369.75 Td
+(458,75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 369.75 Td
+(45,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 369.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 353.25 Td
+(63) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 353.25 Td
+(24/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 354.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 356.25 Td
+(64,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 354.75 Td
+(519,16) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 356.25 Td
+(583,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 356.25 Td
+(58,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 356.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 339.75 Td
+(180) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 339.75 Td
+(01/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 341.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 342.75 Td
+(20,56) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 341.25 Td
+(363,81) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 342.75 Td
+(384,37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 342.75 Td
+(38,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 342.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 324.75 538.5 13.5 re
+W n
+Q
+q
+28.5 324.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 326.25 Td
+(89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 326.25 Td
+(06/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 327.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 329.25 Td
+(92,27) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 327.75 Td
+(768,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 329.25 Td
+(861,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 329.25 Td
+(86,10) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 329.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 311.25 538.5 13.5 re
+W n
+Q
+q
+28.5 311.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 312.75 Td
+(88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 312.75 Td
+(12/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 314.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 315.75 Td
+(25,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 314.25 Td
+(254,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 315.75 Td
+(279,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 315.75 Td
+(27,99) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 315.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 297.75 538.5 13.5 re
+W n
+Q
+q
+28.5 297.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 299.25 Td
+(174) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 299.25 Td
+(19/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 300.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 302.25 Td
+(17,71) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 300.75 Td
+(180,85) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 302.25 Td
+(198,56) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 302.25 Td
+(19,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 302.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 284.25 538.5 13.5 re
+W n
+Q
+q
+28.5 284.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 285.75 Td
+(103) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 285.75 Td
+(28/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 287.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 288.75 Td
+(56,99) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 287.25 Td
+(629,33) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 288.75 Td
+(686,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 288.75 Td
+(68,63) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 288.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 270.75 538.5 13.5 re
+W n
+Q
+q
+28.5 270.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 272.25 Td
+(35) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 272.25 Td
+(05/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 273.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 275.25 Td
+(24,17) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 273.75 Td
+(207,19) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 275.25 Td
+(231,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 275.25 Td
+(23,14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 275.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 257.25 538.5 13.5 re
+W n
+Q
+q
+28.5 257.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 258.75 Td
+(98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 258.75 Td
+(07/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 260.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 261.75 Td
+(38,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 260.25 Td
+(569,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 261.75 Td
+(607,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 261.75 Td
+(60,80) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 261.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 243.75 538.5 13.5 re
+W n
+Q
+q
+28.5 243.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 245.25 Td
+(198) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 245.25 Td
+(16/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 246.75 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 248.25 Td
+(115,41) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 246.75 Td
+(679,43) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 248.25 Td
+(794,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 248.25 Td
+(79,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 248.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 230.25 538.5 13.5 re
+W n
+Q
+q
+28.5 230.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 231.75 Td
+(107) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 231.75 Td
+(18/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 233.25 Td
+(Vendedor 01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 234.75 Td
+(44,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 233.25 Td
+(764,02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 234.75 Td
+(808,38) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 234.75 Td
+(80,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 234.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 194.25 538.5 36 re
+W n
+0.75 w
+0 J
+[] 0 d
+0 0 0 RG
+0 0 0 rg
+28.5 229.5 538.5 0.75 re
+f
+Q
+q
+28.5 194.25 538.5 36 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+245.25 206.25 Td
+(23878,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+305.25 206.25 Td
+(2.418,56) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+363 206.25 Td
+(21.459,52) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+435 206.25 Td
+(2.387,83) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+528.75 206.25 Td
+(0,00) Tj
+ET
+Q
+Q
+endstream
+endobj
+7 0 obj
+25808
+endobj
+9 0 obj <<
+/Type/Page
+/Parent 3 0 R
+/Resources 4 0 R
+/MediaBox [ 0 0 595.5 842.25 ]
+/Contents 10 0 R
+>> endobj
+10 0 obj <<
+/Length 11 0 R
+>>
+stream
+q
+0 0 0 rg
+BT
+/F1 16 Tf
+108.75 822.75 Td
+(Relatorio de Vendas por Comissão de Vendedores) Tj
+ET
+Q
+q
+0 0.502 0 rg
+BT
+/F1 11 Tf
+328.5 804.75 Td
+([ Relatorio de todos Vendedores por periodo ]) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+545.25 823.5 Td
+(2) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+521.25 823.5 Td
+(Pag:) Tj
+ET
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+0.75 w
+0 J
+[] 0 d
+0 0 0 RG
+0 0 0 rg
+28.5 783.75 538.5 0.75 re
+f
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+43.5 788.25 Td
+(ID) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+79.5 788.25 Td
+(Data) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 788.25 Td
+(Vendedor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+249.75 788.25 Td
+(Valor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+304.5 788.25 Td
+(Desconto) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+371.25 788.25 Td
+(Liquido) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+429.75 788.25 Td
+(Comissão) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+500.25 787.5 Td
+(Bonificacao) Tj
+ET
+Q
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 771.75 Td
+(27) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 771.75 Td
+(20/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 773.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 774.75 Td
+(18,52) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 773.25 Td
+(269,02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 774.75 Td
+(287,54) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 774.75 Td
+(14,38) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 774.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 758.25 Td
+(15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 758.25 Td
+(23/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 759.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 761.25 Td
+(44,25) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 759.75 Td
+(340,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 761.25 Td
+(384,95) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 761.25 Td
+(19,25) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 761.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 744.75 Td
+(91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 744.75 Td
+(27/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 746.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 747.75 Td
+(74,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 746.25 Td
+(588,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 747.75 Td
+(663,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 747.75 Td
+(33,16) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 747.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 731.25 Td
+(146) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 731.25 Td
+(05/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 732.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 734.25 Td
+(26,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 732.75 Td
+(244,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 734.25 Td
+(271,80) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 734.25 Td
+(13,59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 734.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 717.75 Td
+(42) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 717.75 Td
+(24/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 719.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 720.75 Td
+(26,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 719.25 Td
+(259,19) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 720.75 Td
+(285,85) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 720.75 Td
+(14,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 720.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 704.25 Td
+(77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 704.25 Td
+(24/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 705.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 707.25 Td
+(52,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 705.75 Td
+(463,87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 707.25 Td
+(516,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 707.25 Td
+(25,83) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 707.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 690.75 Td
+(195) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 690.75 Td
+(28/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 692.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 693.75 Td
+(61,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 692.25 Td
+(734,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 693.75 Td
+(795,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 693.75 Td
+(39,79) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 693.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 677.25 Td
+(65) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 677.25 Td
+(29/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 678.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 680.25 Td
+(82,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 678.75 Td
+(684,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 680.25 Td
+(766,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 680.25 Td
+(38,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 680.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 663.75 Td
+(133) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 663.75 Td
+(31/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 665.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 666.75 Td
+(56,07) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 665.25 Td
+(607,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 666.75 Td
+(663,37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 666.75 Td
+(33,17) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 666.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 650.25 Td
+(183) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 650.25 Td
+(14/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 651.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 653.25 Td
+(75,89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 651.75 Td
+(465,14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 653.25 Td
+(541,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 653.25 Td
+(27,05) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 653.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 636.75 Td
+(139) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 636.75 Td
+(15/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 638.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 639.75 Td
+(74,83) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 638.25 Td
+(647,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 639.75 Td
+(722,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 639.75 Td
+(36,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 639.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 623.25 Td
+(56) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 623.25 Td
+(22/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 624.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 626.25 Td
+(38,99) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 624.75 Td
+(541,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 626.25 Td
+(580,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 626.25 Td
+(29,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 626.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 609.75 Td
+(112) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 609.75 Td
+(28/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 611.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 612.75 Td
+(118,78) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 611.25 Td
+(802,16) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 612.75 Td
+(920,94) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 612.75 Td
+(46,05) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 612.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 596.25 Td
+(150) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 596.25 Td
+(02/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 597.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 599.25 Td
+(60,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 597.75 Td
+(926,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 599.25 Td
+(986,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 599.25 Td
+(49,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 599.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 582.75 Td
+(12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 582.75 Td
+(12/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 584.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 585.75 Td
+(36,31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 584.25 Td
+(269,60) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 585.75 Td
+(305,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 585.75 Td
+(15,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 585.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 569.25 Td
+(172) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 569.25 Td
+(16/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 570.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 572.25 Td
+(110,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 570.75 Td
+(800,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 572.25 Td
+(910,95) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 572.25 Td
+(45,55) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 572.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 555.75 Td
+(36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 555.75 Td
+(25/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 557.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 558.75 Td
+(121,15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 557.25 Td
+(824,42) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 558.75 Td
+(945,57) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 558.75 Td
+(47,28) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 558.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 542.25 Td
+(124) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 542.25 Td
+(31/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 543.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 545.25 Td
+(25,23) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 543.75 Td
+(193,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 545.25 Td
+(218,45) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 545.25 Td
+(10,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 545.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 528.75 Td
+(73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 528.75 Td
+(10/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 530.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 531.75 Td
+(80,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 530.25 Td
+(551,14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 531.75 Td
+(631,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 531.75 Td
+(31,57) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 531.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 515.25 Td
+(104) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 515.25 Td
+(11/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 516.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 518.25 Td
+(70,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 516.75 Td
+(491,55) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 518.25 Td
+(562,04) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 518.25 Td
+(28,10) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 518.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 501.75 Td
+(19) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 501.75 Td
+(15/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 503.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 504.75 Td
+(36,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 503.25 Td
+(531,87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 504.75 Td
+(568,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 504.75 Td
+(28,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 504.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 488.25 Td
+(101) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 488.25 Td
+(15/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 489.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 491.25 Td
+(133,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 489.75 Td
+(845,51) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 491.25 Td
+(979,17) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 491.25 Td
+(48,96) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 491.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 474.75 Td
+(179) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 474.75 Td
+(23/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 476.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 477.75 Td
+(45,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 476.25 Td
+(258,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 477.75 Td
+(303,97) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 477.75 Td
+(15,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 477.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 461.25 Td
+(114) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 461.25 Td
+(26/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 462.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 464.25 Td
+(31,85) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 462.75 Td
+(506,53) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 464.25 Td
+(538,38) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 464.25 Td
+(26,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 464.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 447.75 Td
+(123) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 447.75 Td
+(02/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 449.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 450.75 Td
+(88,87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 449.25 Td
+(619,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 450.75 Td
+(708,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 450.75 Td
+(35,42) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 450.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 434.25 Td
+(147) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 434.25 Td
+(11/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 435.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 437.25 Td
+(71,07) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 435.75 Td
+(631,09) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 437.25 Td
+(702,16) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 437.25 Td
+(35,11) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 437.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 420.75 Td
+(176) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 420.75 Td
+(16/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 422.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 423.75 Td
+(27,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 422.25 Td
+(449,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 423.75 Td
+(477,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 423.75 Td
+(23,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 423.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 407.25 Td
+(75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 407.25 Td
+(18/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 408.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 410.25 Td
+(22,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 408.75 Td
+(330,75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 410.25 Td
+(353,57) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 410.25 Td
+(17,68) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 410.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 393.75 Td
+(125) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 393.75 Td
+(18/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 395.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 396.75 Td
+(90,59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 395.25 Td
+(537,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 396.75 Td
+(627,81) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 396.75 Td
+(31,39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 396.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 380.25 Td
+(87) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 380.25 Td
+(05/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 381.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 383.25 Td
+(81,62) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 381.75 Td
+(905,85) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 383.25 Td
+(987,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 383.25 Td
+(49,37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 383.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 366.75 Td
+(105) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 366.75 Td
+(08/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 368.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 369.75 Td
+(46,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 368.25 Td
+(290,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 369.75 Td
+(337,06) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 369.75 Td
+(16,85) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 369.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 353.25 Td
+(116) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 353.25 Td
+(25/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 354.75 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 356.25 Td
+(92,79) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 354.75 Td
+(589,41) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 356.25 Td
+(682,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 356.25 Td
+(34,11) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 356.25 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 339.75 Td
+(109) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 339.75 Td
+(17/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 341.25 Td
+(Vendedor 02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 342.75 Td
+(59,95) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 341.25 Td
+(545,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 342.75 Td
+(605,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 342.75 Td
+(30,25) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 342.75 Td
+(0,00) Tj
+ET
+Q
+Q
+q
+28.5 302.25 538.5 36 re
+W n
+0.75 w
+0 J
+[] 0 d
+0 0 0 RG
+0 0 0 rg
+28.5 337.5 538.5 0.75 re
+f
+Q
+q
+28.5 302.25 538.5 36 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+245.25 314.25 Td
+(19832,82) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+305.25 314.25 Td
+(4.504,58) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+363 314.25 Td
+(39.206,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+435 314.25 Td
+(3.379,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+528.75 314.25 Td
+(0,00) Tj
+ET
+Q
+Q
+endstream
+endobj
+11 0 obj
+21069
+endobj
+12 0 obj <<
+/Type/Page
+/Parent 3 0 R
+/Resources 4 0 R
+/MediaBox [ 0 0 595.5 842.25 ]
+/Contents 13 0 R
+>> endobj
+13 0 obj <<
+/Length 14 0 R
+>>
+stream
+q
+0 0 0 rg
+BT
+/F1 16 Tf
+108.75 822.75 Td
+(Relatorio de Vendas por Comissão de Vendedores) Tj
+ET
+Q
+q
+0 0.502 0 rg
+BT
+/F1 11 Tf
+328.5 804.75 Td
+([ Relatorio de todos Vendedores por periodo ]) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+545.25 823.5 Td
+(3) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+521.25 823.5 Td
+(Pag:) Tj
+ET
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+0.75 w
+0 J
+[] 0 d
+0 0 0 RG
+0 0 0 rg
+28.5 783.75 538.5 0.75 re
+f
+Q
+q
+28.5 783.75 538.5 30 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+43.5 788.25 Td
+(ID) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+79.5 788.25 Td
+(Data) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 788.25 Td
+(Vendedor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+249.75 788.25 Td
+(Valor) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+304.5 788.25 Td
+(Desconto) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+371.25 788.25 Td
+(Liquido) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+429.75 788.25 Td
+(Comissão) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+500.25 787.5 Td
+(Bonificacao) Tj
+ET
+Q
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+Q
+q
+28.5 770.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 771.75 Td
+(145) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 771.75 Td
+(26/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 773.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 774.75 Td
+(67,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 773.25 Td
+(706,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 774.75 Td
+(773,70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 774.75 Td
+(77,37) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 774.75 Td
+(15,47) Tj
+ET
+Q
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+Q
+q
+28.5 756.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 758.25 Td
+(143) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 758.25 Td
+(28/04/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 759.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 761.25 Td
+(24,07) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 759.75 Td
+(368,15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 761.25 Td
+(392,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 761.25 Td
+(39,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 761.25 Td
+(7,84) Tj
+ET
+Q
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+Q
+q
+28.5 743.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 744.75 Td
+(181) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 744.75 Td
+(01/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 746.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 747.75 Td
+(35,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 746.25 Td
+(280,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 747.75 Td
+(316,76) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 747.75 Td
+(31,68) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 747.75 Td
+(6,34) Tj
+ET
+Q
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+Q
+q
+28.5 729.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 731.25 Td
+(6) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 731.25 Td
+(03/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 732.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 734.25 Td
+(113,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 732.75 Td
+(750,19) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 734.25 Td
+(863,51) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 734.25 Td
+(86,35) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 734.25 Td
+(17,27) Tj
+ET
+Q
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+Q
+q
+28.5 716.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 717.75 Td
+(14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 717.75 Td
+(16/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 719.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 720.75 Td
+(91,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 719.25 Td
+(537,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 720.75 Td
+(629,18) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 720.75 Td
+(62,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 720.75 Td
+(12,58) Tj
+ET
+Q
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+Q
+q
+28.5 702.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 704.25 Td
+(191) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 704.25 Td
+(18/05/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 705.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 707.25 Td
+(86,74) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 705.75 Td
+(782,67) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 707.25 Td
+(869,41) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 707.25 Td
+(86,94) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 707.25 Td
+(17,39) Tj
+ET
+Q
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+Q
+q
+28.5 689.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 690.75 Td
+(127) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 690.75 Td
+(03/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 692.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 693.75 Td
+(44,54) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 692.25 Td
+(547,75) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 693.75 Td
+(592,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 693.75 Td
+(59,23) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 693.75 Td
+(11,85) Tj
+ET
+Q
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+Q
+q
+28.5 675.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 677.25 Td
+(200) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 677.25 Td
+(04/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 678.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 680.25 Td
+(19,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 678.75 Td
+(110,14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 680.25 Td
+(129,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 680.25 Td
+(12,94) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 680.25 Td
+(2,59) Tj
+ET
+Q
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+Q
+q
+28.5 662.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 663.75 Td
+(47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 663.75 Td
+(08/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 665.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 666.75 Td
+(80,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 665.25 Td
+(460,18) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 666.75 Td
+(540,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 666.75 Td
+(54,09) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 666.75 Td
+(10,82) Tj
+ET
+Q
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+Q
+q
+28.5 648.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 650.25 Td
+(163) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 650.25 Td
+(16/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 651.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 653.25 Td
+(64,28) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 651.75 Td
+(911,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 653.25 Td
+(975,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 653.25 Td
+(97,55) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 653.25 Td
+(19,51) Tj
+ET
+Q
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+Q
+q
+28.5 635.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 636.75 Td
+(160) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 636.75 Td
+(20/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 638.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 639.75 Td
+(75,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+369.75 638.25 Td
+(1.048,73) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+248.25 639.75 Td
+(1.124,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+444.75 639.75 Td
+(112,46) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 639.75 Td
+(22,49) Tj
+ET
+Q
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+Q
+q
+28.5 621.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 623.25 Td
+(154) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 623.25 Td
+(24/06/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 624.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+313.5 626.25 Td
+(109,89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 624.75 Td
+(795,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 626.25 Td
+(905,25) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 626.25 Td
+(90,53) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 626.25 Td
+(18,11) Tj
+ET
+Q
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+Q
+q
+28.5 608.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 609.75 Td
+(164) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 609.75 Td
+(01/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 611.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 612.75 Td
+(73,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 611.25 Td
+(973,54) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+248.25 612.75 Td
+(1.046,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+444.75 612.75 Td
+(104,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 612.75 Td
+(20,94) Tj
+ET
+Q
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+Q
+q
+28.5 594.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 596.25 Td
+(20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 596.25 Td
+(04/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 597.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 599.25 Td
+(71,59) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 597.75 Td
+(632,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 599.25 Td
+(703,99) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 599.25 Td
+(70,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 599.25 Td
+(14,08) Tj
+ET
+Q
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+Q
+q
+28.5 581.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 582.75 Td
+(80) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 582.75 Td
+(06/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 584.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 585.75 Td
+(49,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 584.25 Td
+(716,62) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 585.75 Td
+(766,26) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 585.75 Td
+(76,63) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 585.75 Td
+(15,33) Tj
+ET
+Q
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+Q
+q
+28.5 567.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 569.25 Td
+(165) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 569.25 Td
+(07/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 570.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 572.25 Td
+(86,89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 570.75 Td
+(982,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+248.25 572.25 Td
+(1.069,18) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+444.75 572.25 Td
+(106,92) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 572.25 Td
+(21,38) Tj
+ET
+Q
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+Q
+q
+28.5 554.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 555.75 Td
+(70) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 555.75 Td
+(09/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 557.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 558.75 Td
+(61,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 557.25 Td
+(411,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 558.75 Td
+(472,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 558.75 Td
+(47,24) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 558.75 Td
+(9,45) Tj
+ET
+Q
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+Q
+q
+28.5 540.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 542.25 Td
+(72) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 542.25 Td
+(18/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 543.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 545.25 Td
+(18,13) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 543.75 Td
+(343,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 545.25 Td
+(362,11) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 545.25 Td
+(36,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 545.25 Td
+(7,24) Tj
+ET
+Q
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+Q
+q
+28.5 527.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 528.75 Td
+(7) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 528.75 Td
+(22/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 530.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 531.75 Td
+(26,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 530.25 Td
+(293,41) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 531.75 Td
+(320,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 531.75 Td
+(32,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 531.75 Td
+(6,41) Tj
+ET
+Q
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+Q
+q
+28.5 513.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 515.25 Td
+(132) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 515.25 Td
+(23/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 516.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 518.25 Td
+(91,68) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 516.75 Td
+(736,30) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 518.25 Td
+(827,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 518.25 Td
+(82,80) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 518.25 Td
+(16,56) Tj
+ET
+Q
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+Q
+q
+28.5 500.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 501.75 Td
+(184) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 501.75 Td
+(28/07/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 503.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 504.75 Td
+(63,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 503.25 Td
+(617,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 504.75 Td
+(681,15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 504.75 Td
+(68,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 504.75 Td
+(13,62) Tj
+ET
+Q
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+Q
+q
+28.5 486.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 488.25 Td
+(57) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 488.25 Td
+(10/08/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 489.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 491.25 Td
+(41,09) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 489.75 Td
+(415,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 491.25 Td
+(456,49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 491.25 Td
+(45,65) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 491.25 Td
+(9,13) Tj
+ET
+Q
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+Q
+q
+28.5 473.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 474.75 Td
+(32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 474.75 Td
+(09/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 476.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 477.75 Td
+(37,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 476.25 Td
+(439,26) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 477.75 Td
+(477,24) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 477.75 Td
+(47,72) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 477.75 Td
+(9,54) Tj
+ET
+Q
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+Q
+q
+28.5 459.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 461.25 Td
+(108) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 461.25 Td
+(09/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 462.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 464.25 Td
+(59,51) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 462.75 Td
+(920,50) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 464.25 Td
+(980,01) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 464.25 Td
+(98,00) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 464.25 Td
+(19,60) Tj
+ET
+Q
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+Q
+q
+28.5 446.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 447.75 Td
+(90) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 447.75 Td
+(10/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 449.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 450.75 Td
+(16,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 449.25 Td
+(216,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 450.75 Td
+(233,63) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 450.75 Td
+(23,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 450.75 Td
+(4,67) Tj
+ET
+Q
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+Q
+q
+28.5 432.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 434.25 Td
+(187) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 434.25 Td
+(17/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 435.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 437.25 Td
+(89,83) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 435.75 Td
+(576,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 437.25 Td
+(666,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 437.25 Td
+(66,61) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 437.25 Td
+(13,32) Tj
+ET
+Q
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+Q
+q
+28.5 419.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 420.75 Td
+(44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 420.75 Td
+(18/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 422.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 423.75 Td
+(69,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 422.25 Td
+(423,54) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 423.75 Td
+(493,23) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 423.75 Td
+(49,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 423.75 Td
+(9,86) Tj
+ET
+Q
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+Q
+q
+28.5 405.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 407.25 Td
+(106) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 407.25 Td
+(28/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 408.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 410.25 Td
+(44,69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 408.75 Td
+(647,40) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 410.25 Td
+(692,09) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 410.25 Td
+(69,21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 410.25 Td
+(13,84) Tj
+ET
+Q
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+Q
+q
+28.5 392.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 393.75 Td
+(115) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 393.75 Td
+(28/09/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 395.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 396.75 Td
+(98,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 395.25 Td
+(800,10) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 396.75 Td
+(898,58) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 396.75 Td
+(89,86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 396.75 Td
+(17,97) Tj
+ET
+Q
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+Q
+q
+28.5 378.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 380.25 Td
+(161) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 380.25 Td
+(02/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 381.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 383.25 Td
+(69,48) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 381.75 Td
+(869,81) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 383.25 Td
+(939,29) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 383.25 Td
+(93,93) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 383.25 Td
+(18,79) Tj
+ET
+Q
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+Q
+q
+28.5 365.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 366.75 Td
+(52) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 366.75 Td
+(07/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 368.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 369.75 Td
+(46,91) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 368.25 Td
+(348,88) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 369.75 Td
+(395,79) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 369.75 Td
+(39,58) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 369.75 Td
+(7,92) Tj
+ET
+Q
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+Q
+q
+28.5 351.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 353.25 Td
+(138) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 353.25 Td
+(10/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 354.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 356.25 Td
+(15,08) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 354.75 Td
+(192,06) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 356.25 Td
+(207,14) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 356.25 Td
+(20,71) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 356.25 Td
+(4,14) Tj
+ET
+Q
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+Q
+q
+28.5 338.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 339.75 Td
+(130) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 339.75 Td
+(10/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 341.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 342.75 Td
+(54,76) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 341.25 Td
+(375,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 342.75 Td
+(430,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 342.75 Td
+(43,02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 342.75 Td
+(8,60) Tj
+ET
+Q
+Q
+q
+28.5 324.75 538.5 13.5 re
+W n
+Q
+q
+28.5 324.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 326.25 Td
+(49) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 326.25 Td
+(12/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 327.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 329.25 Td
+(46,93) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 327.75 Td
+(348,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 329.25 Td
+(394,96) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 329.25 Td
+(39,50) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 329.25 Td
+(7,90) Tj
+ET
+Q
+Q
+q
+28.5 311.25 538.5 13.5 re
+W n
+Q
+q
+28.5 311.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 312.75 Td
+(39) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 312.75 Td
+(14/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 314.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 315.75 Td
+(36,98) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 314.25 Td
+(454,22) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 315.75 Td
+(491,20) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 315.75 Td
+(49,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 315.75 Td
+(9,82) Tj
+ET
+Q
+Q
+q
+28.5 297.75 538.5 13.5 re
+W n
+Q
+q
+28.5 297.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 299.25 Td
+(67) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 299.25 Td
+(15/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 300.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 302.25 Td
+(45,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 300.75 Td
+(285,12) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 302.25 Td
+(330,44) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 302.25 Td
+(33,04) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+530.25 302.25 Td
+(6,61) Tj
+ET
+Q
+Q
+q
+28.5 284.25 538.5 13.5 re
+W n
+Q
+q
+28.5 284.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 285.75 Td
+(16) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 285.75 Td
+(15/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 287.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 288.75 Td
+(73,47) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 287.25 Td
+(469,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 288.75 Td
+(543,13) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 288.75 Td
+(54,31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 288.75 Td
+(10,86) Tj
+ET
+Q
+Q
+q
+28.5 270.75 538.5 13.5 re
+W n
+Q
+q
+28.5 270.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 272.25 Td
+(86) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 272.25 Td
+(16/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 273.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 275.25 Td
+(64,34) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 273.75 Td
+(591,50) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 275.25 Td
+(655,84) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 275.25 Td
+(65,58) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 275.25 Td
+(13,12) Tj
+ET
+Q
+Q
+q
+28.5 257.25 538.5 13.5 re
+W n
+Q
+q
+28.5 257.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 258.75 Td
+(69) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 258.75 Td
+(26/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 260.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 261.75 Td
+(62,15) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 260.25 Td
+(491,03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 261.75 Td
+(553,18) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 261.75 Td
+(55,32) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 261.75 Td
+(11,06) Tj
+ET
+Q
+Q
+q
+28.5 243.75 538.5 13.5 re
+W n
+Q
+q
+28.5 243.75 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 245.25 Td
+(11) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 245.25 Td
+(28/10/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 246.75 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 248.25 Td
+(55,26) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 246.75 Td
+(481,36) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 248.25 Td
+(536,62) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 248.25 Td
+(53,66) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 248.25 Td
+(10,73) Tj
+ET
+Q
+Q
+q
+28.5 230.25 538.5 13.5 re
+W n
+Q
+q
+28.5 230.25 538.5 13.5 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+39 231.75 Td
+(21) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+66.75 231.75 Td
+(16/11/2023) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+125.25 233.25 Td
+(Vendedor 03) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+318.75 234.75 Td
+(94,31) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+378 233.25 Td
+(900,33) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+256.5 234.75 Td
+(994,64) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+450 234.75 Td
+(99,46) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+525 234.75 Td
+(19,89) Tj
+ET
+Q
+Q
+q
+28.5 194.25 538.5 36 re
+W n
+Q
+q
+28.5 194.25 538.5 36 re
+W n
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+245.25 206.25 Td
+(25732,89) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+305.25 206.25 Td
+(6.984,77) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+363.75 207 Td
+(62.459,02) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+436.5 206.25 Td
+(5.952,76) Tj
+ET
+Q
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+517.5 206.25 Td
+(514,64) Tj
+ET
+Q
+Q
+endstream
+endobj
+14 0 obj
+25720
+endobj
+8 0 obj <<
+/Type/Font/Subtype/TrueType/Name/F1/BaseFont/Arial
+/FirstChar 30
+/LastChar 255
+/Widths [
+750 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 
+556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 
+667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 
+611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 
+278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 
+500 500 500 334 260 334 584 750 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 278 333 556 556 556 556 260 556 333 737 370 556 584 333 
+737 552 400 549 333 333 333 576 537 333 333 333 365 556 834 834 834 611 
+667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 
+778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 
+556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 
+556 549 611 556 556 556 556 500 556 500 
+]
+/FontDescriptor 15 0 R
+/Encoding/WinAnsiEncoding
+>> endobj
+15 0 obj <<
+/Type/FontDescriptor
+/FontName/Arial
+/Flags 32
+/FontBBox [ -665 -325 2000 1040 ]
+/MissingWidth 0
+/StemV 73
+/StemH 73
+/ItalicAngle 0
+/CapHeight 500
+/XHeight 250
+/Ascent 905
+/Descent 212
+/Leading 117
+/MaxWidth 2665
+/AvgWidth 441
+>> endobj
+4 0 obj <<
+/ProcSet [ /PDF/Text/ImageB ]
+/Font <<
+/F1 8 0 R
+>>
+/XObject <<
+>>
+>> endobj
+3 0 obj <<
+/Type/Pages
+/Count 3
+/MediaBox [ 0 0 595.5 842.25 ]
+/Kids [ 5 0 R 9 0 R 12 0 R ]
+>> endobj
+xref
+0 16
+0000000000 65535 f
+0000000010 00000 n
+0000000163 00000 n
+0000074818 00000 n
+0000074722 00000 n
+0000000215 00000 n
+0000000332 00000 n
+0000026198 00000 n
+0000073418 00000 n
+0000026222 00000 n
+0000026340 00000 n
+0000047469 00000 n
+0000047494 00000 n
+0000047613 00000 n
+0000073393 00000 n
+0000074456 00000 n
+trailer
+<<
+/Size 16
+/Root 2 0 R
+/Info 1 0 R
+>>
+startxref
+74926
+%%EOF
