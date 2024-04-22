@@ -1,0 +1,23 @@
+
+Procedimentos para utilizacao do teste de comissao de Vendedores
+==========================================================
+
+(COnsiderações)
+- Foi utilizado um banco de dados embarcado para evitar que o usuário disponibilize um banco de dados e tenha que fazer conexão, desta forma facilitei o processo de utilização e análise.
+
+(Procedimentos)
+
+(*) Importante
+O Arquivo a ser importado deve ter o nome sem espaço desta forma (vendasdelphi.csv)
+
+
+1) Crie uma pasta na raiz do seu compudator (tem que ser no c:\) com nome de testecrud
+exemplo: c:\testecrud
+2)Acesse O github e rode o project1   
+3) clique na aba importa
+4)Clique em importa dados
+5)Feche a tela impora  e clique no botao Gerar PDF
+6)Selecione intervalo de data ou aplique os filtros desejado
+7)Clique em gerar PDF o arquivo será gerado na pasta c:\testecrud como o nome de RELATORIOCOMISSAO.PDF
+8) Se desejar vc pode gerar um preview das opcoes e imprimir
+

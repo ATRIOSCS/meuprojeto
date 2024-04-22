@@ -119,11 +119,11 @@ if qry_buscaf_vendedor.asstring <> w_vendant  then begin
    lbl_valorcomi.caption := floattostr(w_valorcomi);
    lbl_valorboni.caption := floattostr(w_valorboni);
 
-
-   lbl_valorboni.caption := formatcurr(',0.00', strtocurr(lbl_valorboni.caption));
-   lbl_valordesc.caption := formatcurr(',0.00', strtocurr(lbl_valordesc.caption));
-   lbl_valortot.caption  := formatcurr(',0.00', strtocurr(lbl_valortot.caption));
-   lbl_valorcomi.caption  := formatcurr(',0.00', strtocurr(lbl_valorcomi.caption));
+   lbl_valorvenda.caption := formatcurr(',#.##', strtocurr(lbl_valorvenda.caption));
+   lbl_valorboni.caption := formatcurr(',#.##', strtocurr(lbl_valorboni.caption));
+   lbl_valordesc.caption := formatcurr(',#.##', strtocurr(lbl_valordesc.caption));
+   lbl_valortot.caption  := formatcurr(',#.##', strtocurr(lbl_valortot.caption));
+   lbl_valorcomi.caption  := formatcurr(',#.##', strtocurr(lbl_valorcomi.caption));
 
 
    w_valorvenda:= 0;
@@ -160,9 +160,14 @@ end;
 procedure Tfrm_pdf.RLTOTBeforePrint(Sender: TObject; var PrintIt: Boolean);
 begin
 if qry_buscaf_vendedor.asstring = w_vendant  then begin
-   rltot.visible := false;
-
+  rltot.visible := false;
 end;
+
+
+
+
+
+
 end;
 
 end.
