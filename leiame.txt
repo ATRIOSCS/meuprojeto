@@ -13,11 +13,24 @@ O Arquivo a ser importado deve ter o nome sem espaço desta forma (vendasdelphi.c
 
 1) Crie uma pasta na raiz do seu compudator (tem que ser no c:\) com nome de testecrud
 exemplo: c:\testecrud
-2)Acesse O github e rode o project1   
+2)Acesse O github (https://github.com/ATRIOSCS/meuprojeto.git)
+baixe na pasta c:\testecrud e rode o project1   
+
 3) clique na aba importa
+
 4)Clique em importa dados
+
 5)Feche a tela impora  e clique no botao Gerar PDF
+
 6)Selecione intervalo de data ou aplique os filtros desejado
-7)Clique em gerar PDF o arquivo será gerado na pasta c:\testecrud como o nome de RELATORIOCOMISSAO.PDF
+
+7)Clique em gerar PDF o arquivo será gerado na pasta c:\testecrud 
+como o nome de RELATORIOCOMISSAO.PDF
+
 8) Se desejar vc pode gerar um preview das opcoes e imprimir
 
+
+obrigado.
+
+José Brandão Neto
+Analista de Sistemas
